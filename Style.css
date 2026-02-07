@@ -1,0 +1,65 @@
+header{
+  gap: 100px;
+  display: block;
+text-align: center;
+line-height: 50px;
+padding: 40px;
+
+}
+text{
+display: block;
+text-align: center;
+text-wrap: balance;
+line-height: 50px;
+width: 500px;
+padding: 0px 100px;
+}
+.box1{
+  margin-left: auto;
+  margin-right: auto;
+  justify-items: center;
+  width:70%;
+  height: 200px;
+  border-radius: 20px;
+line-height: 50px;
+margin-bottom: 50px;
+backdrop-filter: blur(8px);
+border: 2px solid white;
+}
+.box2{
+  margin-left: auto;
+  margin-right: auto;
+  justify-items: center;
+  width: 70%;
+  height: 200px;
+  border-radius: 20px;
+line-height: 50px;
+margin-bottom: 50px;
+backdrop-filter: blur(8px);
+border: 2px solid white;
+
+}
+.box3{
+  margin-left: auto;
+  margin-right: auto;
+  justify-items: center;
+  width:70%;
+  height: 200px;
+  border-radius: 20px;
+line-height: 50px;
+margin-bottom:50px;
+backdrop-filter: blur(8px);
+border: 2px solid white;
+}
+div{
+  color: lightblue;
+  margin-bottom: 50px;
+
+}
+body{
+  background-image: url('blackhole wallpaper.jpeg');
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+}
+
